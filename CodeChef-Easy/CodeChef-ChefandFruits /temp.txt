@@ -1,0 +1,59 @@
+#include <iostream>
+
+
+void dosomestuff(int apple, int orange,int coin)
+{
+    while(coin>0)
+    {
+        if(apple > orange)
+        {
+            orange++;
+        }
+        else if(apple < orange)
+        {
+            apple++;
+        }
+
+        else
+        {
+            if(coin > 1)
+            {
+                if(coin % 2 ==0)
+                {
+                    apple = apple + coin/2;
+                    orange = orange + coin/2;
+                    coin = 0;
+                    break;
+                } else{
+                    apple = apple + coin/2;
+                    orange = orange + coin/2;
+                    coin = 1;
+                    continue;
+                }
+            } else{
+                apple++;
+            }
+        }
+
+        coin--;
+    }
+
+    std::cout<<abs(apple-orange)<<std::endl;
+}
+
+
+int main() {
+    int numLines = 0;
+    std::cin>>numLines;
+
+    while(numLines--)
+    {
+        int apples,oranges,coins;
+        std::cin>>apples>>oranges>>coins;
+
+        dosomestuff(apples,oranges,coins);
+
+
+    }
+    return 0;
+}
