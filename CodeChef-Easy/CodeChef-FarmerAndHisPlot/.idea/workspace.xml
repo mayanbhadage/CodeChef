@@ -2,16 +2,18 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons" targetName="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons" />
+      <config projectName="CodeChef_FarmerAndHisPlot" targetName="CodeChef_FarmerAndHisPlot" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc6e9de6-2a7b-4f4d-a000-d693241a7351" name="Default Changelist" comment="" />
+    <list default="true" id="c0185ead-c8b9-4c5b-926f-17570d05c2c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CodeChef-MalvikaIsPeculiarAboutColorOfBalloons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChef-MalvikaIsPeculiarAboutColorOfBalloons/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,19 +29,34 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="484">
+              <caret line="22" lean-forward="true" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>long long</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -47,6 +64,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
@@ -54,7 +72,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/CodeChef-MalvikaIsPeculiarAboutColorOfBalloons.iml" />
+        <option value="$PROJECT_DIR$/.idea/CodeChef-FarmerAndHisPlot.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -71,12 +89,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeChef_FarmerAndHisPlot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeChef-FarmerAndHisPlot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -94,7 +121,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons" TARGET_NAME="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons" RUN_TARGET_NAME="CodeChef_MalvikaIsPeculiarAboutColorOfBalloons">
+    <configuration name="CodeChef_FarmerAndHisPlot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CodeChef_FarmerAndHisPlot" TARGET_NAME="CodeChef_FarmerAndHisPlot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CodeChef_FarmerAndHisPlot" RUN_TARGET_NAME="CodeChef_FarmerAndHisPlot">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -105,17 +132,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc6e9de6-2a7b-4f4d-a000-d693241a7351" name="Default Changelist" comment="" />
-      <created>1570294154531</created>
+      <changelist id="c0185ead-c8b9-4c5b-926f-17570d05c2c0" name="Default Changelist" comment="" />
+      <created>1570302620742</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570294154531</updated>
-      <workItem from="1570294155760" duration="602000" />
+      <updated>1570302620742</updated>
+      <workItem from="1570302621933" duration="1916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="602000" />
+    <option name="totallyTimeSpent" value="1916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -149,12 +176,19 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

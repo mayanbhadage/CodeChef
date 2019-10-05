@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mayanbhadage/CodeChef/CodeChef-Easy/CodeChef-KitchenTimeTable/main.cpp
+iostream
+-
+vector
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mayanbhadage/CodeChef/CodeChef-Easy/CodeChef-ChefAndDigitsOfANumber /main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+math.h
+-
+
