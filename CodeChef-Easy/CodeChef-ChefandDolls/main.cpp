@@ -6,7 +6,7 @@ struct Doll
 {
     int dollNum;
     int index;
-    
+
 
 };
 
